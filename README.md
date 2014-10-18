@@ -5,7 +5,7 @@
 
 >This is a hobby project and as such will not be a dedicated 24/7 development.
 I am new to both Django and GitHub so please be patient as I stumble around
-trying to tackle this beast. Your support is greatly apprecieated! :)
+trying to tackle this beast. Your support is greatly appreciated! :)
 
 **Aim**
 
@@ -49,7 +49,7 @@ local weather tweets or get email updates.
 
  Initially, the project will be targeted towards schools and academic institutions.
 
-** TL;DR **
+**TL;DR**
 
 I am using the concept of developing a social weather monitoring platform to
 learn Django, HTML, CSS, JavaScript etc.
