@@ -20,7 +20,7 @@ their data in the cloud.
 
 - Fluid & responsive UI
 - Beautiful data display (think [Information is
-  beautiful](http://www.informationisbeautiful.net/))
+  beautiful](http://www.informationisbeautiful.net/tag/climate))
 - Excellent data analysis tools
 - Sound scientific processes/measuring
 - User sharing of data (become a local weather guru)
@@ -44,8 +44,8 @@ will be kept by the users (much like a GitHub repository). Users will create a
 private or public) as well as a "back end" for them to manage, add, and update
 their data. If a user is so inclined they can either edit the HTML directly or
 use the provided content-management system. A bit like a blog for weather
-(sounds lame, but hey it might be a good idea eventually).Social media will be integrated so that users can prescribe to
-local weather tweets or get email updates.
+(sounds lame, but hey it might be a good idea eventually).Social media will be
+integrated so that users can prescribe to local weather tweets or get email updates.
 
  Initially, the project will be targeted towards schools and academic institutions.
 
